@@ -35,6 +35,8 @@ body{
     font-size: 14px;
     padding: 23px 100px 26px 18px;
     color: white;
+    box-sizing: border-box;
+
 
 }
 
