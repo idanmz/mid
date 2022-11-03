@@ -1,0 +1,144 @@
+body{
+    margin: 0 auto;
+    padding: 0px;
+}
+.s-nav{
+    width: 100%;
+    height: 90px;
+    float: left;
+}
+.s-logo{
+    width: 20%;
+    height: inherit;
+    float: left;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+
+}
+.s-menu{
+    width: 60%;
+    height: inherit;
+    float: left;
+    border: none;
+    border-bottom: 3px solid #253476;
+
+}
+.s-end{
+    width: 20%;
+    height: inherit;
+    float: left;
+    background:#253476;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    font-size: 14px;
+    padding: 23px 100px 26px 18px;
+    color: white;
+
+}
+
+.s-menu ul li{
+    list-style-type: none;
+    padding: 0 20px 0 20px;
+    transition: 0,5s;
+    float: left;
+
+}
+.s-menu ul li:hover{
+    color: #253476;
+    cursor: pointer;
+    border: none;
+    border-bottom: 4px solid #27AE60;
+
+}
+
+.s-menu ul{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    padding: 50px 0 0px 207px;
+    font-size: 20px;
+    float: left;
+    
+}
+.s-cent{
+    background-image: url("../img/02-gigapixel-scale-2_00x\ 1.png");
+    width: 100%;
+    height: 355px;
+    background-repeat: no-repeat;
+    float: left;
+
+
+}
+.s-cent img{
+
+    padding: 98px 0 98px 320px;
+}
+.tere{
+    width: inherit;
+    height: 5px;
+    border: 3px;
+    border-style: dashed solid #CECECE;
+    
+
+}
+.set-1{
+    width: 100%;
+    height: 400px;
+    margin: 0 0 15px 0;
+    background-image: url(../img/black.png), url(../img/Rectangle\ 95.png);
+    background-repeat: no-repeat;
+
+}
+ 
+.s-n{
+    text-decoration-line: underline;
+    font-family: 'Zilla Slab';
+    padding: 260px 175px 0px 35px;
+    color: white;
+    font-size: 24px;
+}
+.n-s{
+    padding: 0px 74px 35px 35px;
+    color: white;
+    font-size: 18px;
+    opacity: 70%;
+
+}
+.set-2{
+    width: 100%;
+    height: 400px;
+    background-image: url(../img/black.png), url(../img/Rectangle\ 76.png);
+    background-repeat: no-repeat;
+    margin: 0 0 15px 0;
+}
+
+.set-3{
+    width: 100%;
+    height: 400px;
+    background-image: url(../img/black.png), url(../img/Rectangle\ 36.png);
+    background-repeat: no-repeat;
+    margin: 0 0 15px 0;
+}
+.set-4{
+    width: 100%;
+    height: 400px;
+    background-image: url(../img/black.png), url(../img/Rectangle\ 96.png);
+    background-repeat: no-repeat;
+    margin: 0 0 15px 0;
+}
+.set-5{
+    width: 100%;
+    height: 400px;
+    background-image: url(../img/black.png), url(../img/copy.png);
+    background-repeat: no-repeat;
+    margin: 0 0 15px 0;
+}
+.set-6{
+    width: 100%;
+    height: 400px;
+    background-image: url(../img/black.png), url(../img/Rectangle\ 78.png);
+    background-repeat: no-repeat;
+    margin: 0 0 15px 0;
+}
